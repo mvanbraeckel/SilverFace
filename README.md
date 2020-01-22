@@ -17,7 +17,8 @@ React Native is used for the app and front-end. The camera continuously attempts
 
 ## Technologies Used:
  - React Native + Expo for app development and initial face detection
- - Azure Cognitive Services Face API for facial recognition and identification
- - Outlook API for forwarding e-receipts after purchase.
+ - Microsoft Azure Cognitive Services Face API for facial recognition and identification
+ - Outlook API for forwarding e-receipts after purchase
+ - Imgur API for image hosting services
 
 *Do not use code from this or copy any aspects without explicit permission from creator*
