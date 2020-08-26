@@ -21,4 +21,9 @@ React Native is used for the app and front-end. The camera continuously attempts
  - Outlook API for forwarding e-receipts after purchase
  - Imgur API for image hosting services
 
+### How to Start Up App
+ - `npm install expo-cli` at root level of *face-pay*, and then also inside *face-pay-app*
+ - Next, use a mobile device to scan the generated QR code which will bring up the Expo app (make sure you have Expo installed)
+ - Note: However, FacePay won't work currrently because keys and tokens are expired
+
 *Do not use code from this or copy any aspects without explicit permission from creator*
