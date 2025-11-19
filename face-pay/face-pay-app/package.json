@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^34.0.1",
+    "expo": "^48.0.0",
     "expo-camera": "^6.0.0",
     "expo-cli": "^3.0.6",
     "react": "16.8.3",
